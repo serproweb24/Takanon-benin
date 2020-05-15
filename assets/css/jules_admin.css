@@ -1,0 +1,37 @@
+
+.accordion-content-block{
+	display: flex;
+	justify-content: space-around;
+}
+.quiz-content-eddit, .quiz-content {
+	width: 100%;
+	padding: 10px;
+	border:1px solid black;
+}
+.right-links-modifier, .right-links-button{
+	float: right;
+}
+.title-quiz{
+	font-weight: bold;
+}
+.content-form-question{
+	display: flex;
+	justify-content: space-between;
+}
+.content-form-question>label {
+	font-weight: 200;
+  font-size: 16px;
+  text-align: center;
+  width: 130px;
+}
+
+.btn-add-quiz>button {
+	float: right;
+  background: #00bb28;
+}
+.content-quiz-response{
+	float: left;
+}
+.content-niveau{
+	
+}

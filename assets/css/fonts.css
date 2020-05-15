@@ -1,0 +1,89 @@
+/*
+|--------------------------------------------------------------------------
+| FONTS
+|--------------------------------------------------------------------------
+|
+*/
+/*----Montserrat-----*/
+@font-face {
+	font-family: Montserrat-Bold;
+	src: local("Montserrat-Bold"), url(font/montserrat/montserratbold.ttf);
+}
+@font-face {
+	font-family: Montserrat-ExtraBold;
+	src: local("Montserrat-ExtraBold"), url(font/montserrat/montserratblack.ttf);
+}
+@font-face {
+	font-family: Montserrat-Regular;
+	src: local("Montserrat-Regular"), url(font/montserrat/montserratRegular.ttf); 
+}
+@font-face {
+	font-family: Montserrat-Light;
+	src: local("Montserrat-Light"), url(font/montserrat/montserratlight.ttf); 
+}
+
+/*----TPSans-----*/
+@font-face {
+	font-family: TPSans-Bold;
+	src: local("TPSans-Bold"), url(font/pt-sans/pt-sans-Bold.ttf);
+}
+@font-face {
+	font-family: TPSans-Semi-Bold;
+	src: local("TPSans-Semi-Bold"), url(font/pt-sans/pt-sans-medium.ttf);
+}
+@font-face {
+	font-family: TPSans-Regular;
+	src: local("TPSans-Regular"), url(font/pt-sans/pt-sans-regular.ttf); 
+}
+@font-face {
+	font-family: TPSans-Italic;
+	src: local("TPSans-Italic"), url(font/pt-sans/pt-sans-italic.ttf); 
+}
+
+
+/*----ProximaNova-----*/
+@font-face {
+	font-family: ProximaNova-Bold;
+	src: local("ProximaNova-Bold"), url(font/ProximaNova/ProximaNovaBold.otf);
+}
+@font-face {
+	font-family: ProximaNova-Semi-Bold;
+	src: local("ProximaNova-Semi-Bold"), url(font/ProximaNova/ProximaNovaSemibold.otf);
+}
+@font-face {
+	font-family: ProximaNova-Regular;
+	src: local("ProximaNova-Regular"), url(font/ProximaNova/ProximaNovaRegular.otf); 
+}
+@font-face {
+	font-family: ProximaNovaCondensedRegular;
+	src: local("ProximaNovaCondensedRegular"), url(font/ProximaNova/ProximaNovaCondensedRegular.otf); 
+}
+@font-face {
+	font-family: ProximaNovaCondensedBold;
+	src: local("ProximaNovaCondensedBold"), url(font/ProximaNova/ProximaNovaCondensedBold.otf); 
+}
+
+@font-face {
+	font-family: ProximaNovaExtraCondensedRegular;
+	src: local("ProximaNovaExtraCondensedRegular"), url(font/ProximaNova/ProximaNovaExtraCondensedRegular.otf); 
+}
+
+/*----GothaPro-----*/
+@font-face {
+	font-family: GothaPro-Bold;
+	src: local("GothaPro-Bold"), url(font/GothaPro/GothaProBol.otf);
+}
+@font-face {
+	font-family: GothaPro-Semi-Bold;
+	src: local("GothaPro-Semi-Bold"), url(font/GothaPro/GothaProMed.otf);
+}
+@font-face {
+	font-family: GothaPro-Regular;
+	src: local("GothaPro-Regular"), url(font/GothaPro/GothaProReg.otf); 
+}
+@font-face {
+	font-family: GothaPro-Bold-Italic;
+	src: local("GothaPro-Bold-Italic"), url(font/GothaPro/GothaProBolIta.otf); 
+}
+
+
